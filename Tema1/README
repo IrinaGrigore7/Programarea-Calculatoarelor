@@ -1,0 +1,10 @@
+Grigore Irina-Domnica
+315 CB
+
+Pentru realizarea acestei teme am utilizat toate cunostintele dobandite in primele laboratoare de programare, precum si operatiile pe biti.De asemenea, pentru a putea reutiliza si organiza codul am folosit conceptul de functii.
+
+Utilitatea fiecarei functii este descrisa in program printr-un comentariu. Functia care contine toata logica jocului, precum si modul in care toate celelate functii se combina pentru a putea juca se numeste runGame() si este singura functie care este apelata in main(). Aceasta:
+
+-preia datele de intrare: harta primita ca parametru, mutarile, piesele
+-face apel la toate celelalte functii
+-calculeaza scorul
