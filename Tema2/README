@@ -1,0 +1,12 @@
+Grigore Irina-Domnica 
+315CB
+
+	Codul este separat in 3 module:
+- Text - procesare, stocare de text;
+- Command - procesare, stocare comenzi;
+- main - combina cele doua module mentionate anterior.
+	Modulul de text are functionalitati de citire/scriere in fisiere, iar metodele de
+procesare sunt independente de modulul de comanda astfel incat pot fi folosite si 
+in alt program ce necesita procesare de text.
+	Modulul de procesare a comenzilor este conceput special pentru citirea, interpretarea
+si validarea comenzilor specifice cerintelor actuale.
